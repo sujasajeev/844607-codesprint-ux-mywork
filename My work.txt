@@ -10,4 +10,10 @@ Team Members:
         Gaurav Bhardwaj (844578)
         
 My work:
+        ContactUs
+        View Appointment
+        
+        ContactUs: if the user has some querries before registering, he/she can communicate to the admin through contact us page. 
+        
+        ViewAppointment: if a user registers for a package, the details will be displayed in view appointment. used *ngFor.
        
